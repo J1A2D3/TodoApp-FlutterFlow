@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65531456140",
+    "project_id": "todo-pe7cam",
+    "storage_bucket": "todo-pe7cam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65531456140:android:561d7f1e9cbc722324a9a9",
+        "android_client_info": {
+          "package_name": "com.mycompany.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz3rJLm6tnOiE9e6z3-7bo1rwilP673t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
